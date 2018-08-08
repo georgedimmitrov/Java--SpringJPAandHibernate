@@ -1,9 +1,8 @@
-spring_mvc_base
+Spring with JPA and Hibernate
 ===============
 
-Base project used for my Pluralsight Spring JPA and Spring Security courses among others.
-
-http://pluralsight.com/training/Courses/TableOfContents/maven-fundamentals
-
-http://pluralsight.com/training/Courses/TableOfContents/springmvc-intro
-
+### Prerequisites
+* MySQL Database named ```fitnessTracker```
+* Maven
+* Tomcat
+* Java 1.8+
